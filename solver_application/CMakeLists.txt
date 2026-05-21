@@ -19,4 +19,6 @@ install(TARGETS equation DESTINATION bin)
 
 set(CPACK_PACKAGE_NAME "solver-equation")
 set(CPACK_PACKAGE_VERSION "0.1.0")
+set(CPACK_PACKAGE_CONTACT "beebumbala <beebumbala@github.com>")
+
 include(CPack)
