@@ -1,6 +1,0 @@
-/home/vadim/beebumbala/workspace/projects/dz03/formatter_ex_lib/_build/CMakeFiles/formatter_ex.dir
-/home/vadim/beebumbala/workspace/projects/dz03/formatter_ex_lib/_build/CMakeFiles/edit_cache.dir
-/home/vadim/beebumbala/workspace/projects/dz03/formatter_ex_lib/_build/CMakeFiles/rebuild_cache.dir
-/home/vadim/beebumbala/workspace/projects/dz03/formatter_ex_lib/formatter_lib/CMakeFiles/formatter.dir
-/home/vadim/beebumbala/workspace/projects/dz03/formatter_ex_lib/formatter_lib/CMakeFiles/edit_cache.dir
-/home/vadim/beebumbala/workspace/projects/dz03/formatter_ex_lib/formatter_lib/CMakeFiles/rebuild_cache.dir
