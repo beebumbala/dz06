@@ -14,3 +14,9 @@ endif()
 
 add_executable(equation equation.cpp)
 target_link_libraries(equation PRIVATE formatter_ex solver_lib)
+
+install(TARGETS equation DESTINATION bin)
+
+set(CPACK_PACKAGE_NAME "solver-equation")
+set(CPACK_PACKAGE_VERSION "0.1.0")
+include(CPack)
